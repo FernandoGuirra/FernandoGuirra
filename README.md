@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FernandoGuirra
+- 👋 Hi, I’m @FernandoGuirra.
+- 📚 I have a degree in industrial mathematics, where the final subject of study was to describe, through finite differences, the Black-Scholes model for options.
 - 👀 I’m interested in knowledge of Artificial Inteligence in areas as Data Science, Machine Learning.
 - 🌱 I’m currently learning programming languages, data visualization.
 - 🖥️ I’m looking to collaborate on on data science projects and investment projects.
